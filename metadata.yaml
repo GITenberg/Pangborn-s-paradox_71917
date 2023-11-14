@@ -6,6 +6,9 @@ contributor:
     alias: Kluga, Richard Paul
     gutenberg_agent_id: '56288'
     url: http://www.gutenberg.org/2009/agents/56288
+covers:
+- cover_type: archival
+  image_path: 71917-h/images/cover.jpg
 creator:
   author:
     agent_name: Mason, David
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '26303'
     url: http://www.gutenberg.org/2009/agents/26303
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71917#Pangborn-s-paradox
 gutenberg_issued: '2023-10-20'
 identifiers:
   gutenberg: '71917'
